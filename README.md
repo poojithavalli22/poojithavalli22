@@ -1,6 +1,6 @@
 <p align='center'><img  src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account..." /></p>
 
-<p><img src=""C:\Users\pooji\Downloads\banner.jpg""> </p>
+<p><img src="banner.jpg"> </p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">, I'm P Poojitha Valli </h1>
