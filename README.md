@@ -2,19 +2,20 @@
 
 <p><img src="banner.png"> </p>
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">, I'm P Poojitha Valli </h1>
 
+
 <h5 align="center">A passionate Web developer and AI/ML Enthusiast</h5>
+
 
 # 🤵About Me
 
 - 🎓 Currently learning **Full Stack Web Development** and practicing **Competitive Programming**.
-
 - 💬 Ask me about **Design and Frontend**
 
 
 - 📫 How to reach me **poojithavallippv@gmail.com**
-
 - 👨‍💻 Know my work at [**My repositories**](https://github.com/poojithavalli22?tab=repositories)
 
 # 🤝 Connect with me:
@@ -23,6 +24,8 @@
 <a href="https://linkedin.com/in/poojitha-valli-8a4274253" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/PoojithaValli" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
+
 
 # 💻 Languages and Tools:
 <p>
@@ -50,9 +53,9 @@
   <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
   <img src="https://img.shields.io/badge/MICROSOFT_OFFICE-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
-
+</p>
   
 # 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojthavalli22&show_icons=true&locale=en&bg_color=000000&layout=compact&theme=dark&title_color=79ff97&text_color=FFFFFF&count_private=true&token=YOUR_GITHUB_TOKEN" alt="pvm-harshavardhan"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=poojtihavalli22&bg_color=000000&theme=dark&title_color=79ff97&include_all_commits=true&text_color=FFFFFF&line&show_icons=true&locale=en&layout=compact&count_private=true&hide=contribs,prs"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojithavalli22&show_icons=true&locale=en&bg_color=000000&layout=compact&theme=dark&title_color=79ff97&text_color=FFFFFF&count_private=true&token=YOUR_GITHUB_TOKEN" alt="poojithavalli22"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=poojithavalli22&bg_color=000000&theme=dark&title_color=79ff97&include_all_commits=true&text_color=FFFFFF&line&show_icons=true&locale=en&layout=compact&count_private=true&hide=contribs,prs"></p>
 <p><img src="https://streak-stats.demolab.com?user=poojithavalli22&theme=dark&background=000000"alt="Poojitha's GitHub Streak Stats" /></p>
